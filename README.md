@@ -11,13 +11,13 @@ In the cases where some code was written by Codecademy to be included in the pro
  - [x] [New York City Blog](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/New%20York%20City%20Blog)
 
 ### CSS Fundamentals ###
- - [x] Healthy Recipes
- - [x] Olivia Woodruff Portfolio
- - [x] Davie's Burgers
- - [x] Broadway
- - [x] Paint Store
+ - [x] [Healthy Recipes](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Healthy%20Recipes)
+ - [x] [Olivia Woodruff Portfolio](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Olivia%20Woodruff%20Portfolio)
+ - [x] [Davie's Burgers](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Davie's%20Burgers)
+ - [x] [Broadway](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Broadway)
+ - [x] [Paint Store](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Paint%20Store)
  - [x] Typography
- - [x] Dasmoto's Arts & Crafts
+ - [x] [Dasmoto's Arts & Crafts](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Dasmoto's%20Arts%20%26%20Crafts)
 
 ### CSS Improved Styling ###
  - [x] The Summit
