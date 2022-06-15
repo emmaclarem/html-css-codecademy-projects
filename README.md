@@ -20,12 +20,12 @@ In the cases where some code was written by Codecademy to be included in the pro
  - [x] [Dasmoto's Arts & Crafts](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Dasmoto's%20Arts%20%26%20Crafts)
 
 ### CSS Improved Styling ###
- - [x] The Summit
- - [x] Fresh Deals: Blueberries
+ - [x] [The Summit](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/The%20Summit)
+ - [x] [Fresh Deals: Blueberries](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Fresh%20Deals%20-%20Blueberries)
  - [x] Website Design Spec Sheet
- - [x] Journey Around the World
- - [ ] Pinpoint E-Commerce
- - [ ] Reel Good Reviews
+ - [x] [Journey Around the World](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Journey%20Around%20The%20World)
+ - [x] Pinpoint E-Commerce
+ - [x] Reel Good Reviews
 
 ### Responsiveness ###
  - [ ] To-Do App
