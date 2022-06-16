@@ -22,10 +22,10 @@ In the cases where some code was written by Codecademy to be included in the pro
 ### CSS Improved Styling ###
  - [x] [The Summit](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/The%20Summit)
  - [x] [Fresh Deals: Blueberries](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Fresh%20Deals%20-%20Blueberries)
- - [x] Website Design Spec Sheet
+ - [x] [Website Design Spec Sheet](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Website%20Design%20Spec%20Sheet)
  - [x] [Journey Around the World](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Journey%20Around%20The%20World)
- - [x] Pinpoint E-Commerce
- - [x] Reel Good Reviews
+ - [x] [Pinpoint E-Commerce](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Pinpoint%20E-Commerce)
+ - [x] [Reel Good Reviews](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Reel%20Good%20Reviews)
 
 ### Responsiveness ###
  - [ ] To-Do App
