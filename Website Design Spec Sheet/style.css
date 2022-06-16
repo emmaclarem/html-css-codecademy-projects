@@ -1,0 +1,113 @@
+/*GLOBAL STYLES*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, p, li, span {
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+}
+
+h1 {
+    padding: 20px 0px 0px 20px;
+}
+
+.colours, .fonts, .font-styles {
+    border: 2px solid #121212;
+    margin: 20px;
+    padding: 10px;
+}
+
+.colours, .fonts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+/*COLOURS SECTION*/
+
+.colours h2 {
+    width: 100%;
+}
+
+span {
+    width: 150px;
+    text-align: center;
+}
+
+.colour-1 {
+    color: #fff;
+    background-color: #6767ad;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 10px 10px;
+}
+
+.colour-2 {
+    color: #000;
+    background-color: #adb3d5;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 10px 10px;
+}
+
+.colour-3 {
+    color: #000;
+    background-color: #d8d6eb;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 10px 10px;
+}
+
+.colour-4 {
+    color: #000;
+    background-color: #f1f2ed;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 10px 10px;
+}
+
+.colour-5 {
+    color: #000;
+    background-color: #ddf760;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 10px 10px;
+}
+
+.colour-6 {
+    color: #fff;
+    background-color: #121212;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 10px 10px;
+}
+
+/*FONTS SECTION*/
+
+.fonts h2 {
+    width: 100%;
+}
+
+.fonts p {
+    font-size: 1.5rem;
+    line-height: 35px;
+}
+.bungee-shade {
+    font-family: 'Bungee Shade', cursive;
+}
+
+#bold {
+    font-weight: 800;
+}
+
+/*FONT STYLES SECTION*/
+
+ul {
+    padding-left: 50px;
+    line-height: 1rem;
+}
