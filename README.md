@@ -28,8 +28,8 @@ In the cases where some code was written by Codecademy to be included in the pro
  - [x] [Reel Good Reviews](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Reel%20Good%20Reviews)
 
 ### Responsiveness ###
- - [ ] To-Do App
- - [ ] Tea Cozy
+ - [x] [To-Do App](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/To-Do%20App)
+ - [x] [Tea Cozy](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Tea%20Cozy)
  - [ ] PupSpa
  - [ ] Task Board
  - [ ] Tsunami Coffee
