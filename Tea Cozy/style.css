@@ -1,0 +1,157 @@
+/* Objective: In this project, you will create a fictional tea shop website on your own computer. We will provide a design spec and image assets to help you along the way. This project assumes that you will be able to reproduce the basic HTML and CSS with little guidance. */
+
+/* all code written by me */
+
+/* GLOBAL STYLES */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+footer {
+  font-family: Helvetica, sans-serif;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+}
+
+main {
+  text-align: center;
+  padding-top: 69px;
+}
+
+h2,
+h4,
+li {
+  margin: 10px;
+}
+
+/* NAVBAR STYLES */
+
+nav {
+  position: fixed;
+  width: 100%;
+  background-color: black;
+  opacity: 1;
+  z-index: 1;
+  height: 69px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid seashell;
+}
+
+ul {
+  list-style: none;
+  margin-right: 10px;
+}
+
+li {
+  display: inline;
+}
+
+li a,
+footer a {
+  color: seashell;
+}
+
+.logo img {
+  height: 50px;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+/* MISSION SECTION STYLES */
+
+.mission {
+  background-image: url(./assets/images/mission-background.jpg);
+  background-position: center;
+  height: 700px;
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.mission-text {
+  background-color: black;
+  opacity: 1;
+}
+
+/* FEATURED SECTION STYLES */
+
+.featured-teas {
+  width: 1000px;
+  margin: 50px auto;
+}
+
+.img-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.img-gallery img {
+  height: 200px;
+  width: 300px;
+  padding: 10px;
+}
+
+.img-gallery h4 {
+  margin-top: 0px;
+}
+
+/* LOCATION SECTION STYLES */
+
+.locations {
+  background-image: url(./assets/images/locations-background.jpg);
+  width: 1200px;
+  height: 500px;
+  margin: 50px auto;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.locations h2 {
+  flex-basis: 100%;
+}
+
+.location-cards {
+  display: inline-flex;
+}
+
+.card {
+  background-color: black;
+  opacity: 1;
+  font-style: normal;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 15px 20px;
+}
+
+/* FOOTER STYLES */
+
+.footer-content {
+  text-align: center;
+  height: 200px;
+}
+
+footer h2,
+footer h5 {
+  padding: 10px;
+}
+
+footer a {
+  text-decoration: none;
+}
