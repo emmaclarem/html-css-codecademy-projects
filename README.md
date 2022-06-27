@@ -29,7 +29,7 @@ In the cases where some code was written by Codecademy to be included in the pro
  - [x] [To-Do App](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/To-Do%20App)
  - [x] [Tea Cozy](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Tea%20Cozy)
  - [x] [PupSpa](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/PupSpa)
- - [ ] Task Board
+ - [x] [Task Board]((https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Task%20Board))
  
  ### Responsiveness ###
  - [ ] Tsunami Coffee
