@@ -28,7 +28,7 @@ In the cases where some code was written by Codecademy to be included in the pro
  - [x] [Reel Good Reviews](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Reel%20Good%20Reviews)
 
 ### Responsiveness ###
- - [ ] To-Do App
+ - [x] To-Do App
  - [ ] Tea Cozy
  - [ ] PupSpa
  - [ ] Task Board
