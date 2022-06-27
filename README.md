@@ -26,12 +26,12 @@ In the cases where some code was written by Codecademy to be included in the pro
  - [x] [Journey Around the World](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Journey%20Around%20The%20World)
  - [x] [Pinpoint E-Commerce](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Pinpoint%20E-Commerce)
  - [x] [Reel Good Reviews](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Reel%20Good%20Reviews)
-
-### Responsiveness ###
- - [x] To-Do App
- - [ ] Tea Cozy
- - [ ] PupSpa
+ - [x] [To-Do App](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/To-Do%20App)
+ - [x] [Tea Cozy](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Tea%20Cozy)
+ - [x] [PupSpa](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/PupSpa)
  - [ ] Task Board
+ 
+ ### Responsiveness ###
  - [ ] Tsunami Coffee
  - [ ] Fotomatic
  - [ ] Architecture Blog
