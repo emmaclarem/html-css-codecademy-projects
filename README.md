@@ -32,7 +32,7 @@ In the cases where some code was written by Codecademy to be included in the pro
  - [x] [Task Board](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Task%20Board)
  
  ### Responsiveness ###
- - [ ] Tsunami Coffee
+ - [x] [Tsunami Coffee](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Tsunami%20Coffee)
  - [ ] Fotomatic
  - [ ] Architecture Blog
  - [ ] Company Home Page
