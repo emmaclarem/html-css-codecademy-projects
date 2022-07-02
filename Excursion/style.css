@@ -1,0 +1,64 @@
+/* In this project, you’ll create a web page which advertises a product called “Excursion.” You’ll use your growing toolset including HTML, CSS, Git, and GitHub. You’ll be proud of yourself when it all comes together!
+
+The web page we’ll build advertises a mobile app which helps users record and share their experiences, so we’ll use video and landscape imagery to set the scene. A landing page is a vital tool in marketing a product these days, and the goal will be to entice potential customers into using the product. */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    background-color: black;
+}
+
+h1, h2 {
+    color: white;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+p.narrow {
+    width: 85%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    text-align: center;
+}
+
+.copy {
+    text-align: right;
+    margin: 10px;
+}
+
+.camp {
+    width: 70%;
+}
+
+.icon {
+    margin-top: 15px;
+}
