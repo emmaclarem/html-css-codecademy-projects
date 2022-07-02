@@ -1,7 +1,9 @@
-# HTML & CSS Codecademy Projects #
-This repository contains a collection of projects I've completed using HTML& CSS on Codecademy's Frontend Engineer Career Path. 
+<p align="center"> <img src="https://user-images.githubusercontent.com/104512014/176559133-f6434a3e-02ea-403e-892d-644b4401ea88.png" height="70px"/> </p>
 
-In the cases where some code was written by Codecademy to be included in the project (ie: CSS stylesheets while I was only learning HTML) I have commented at the top of the file that the code was not written by me.
+# HTML & CSS Codecademy Projects #
+This repository contains a collection of projects I've completed using HTML & CSS on Codecademy's Frontend Engineer Career Path. 
+
+This repo contains a mix of guided and solo projects. In the cases where some code was written by Codecademy to be included in the project (ie: CSS stylesheets while I was only learning HTML) I have commented at the top of the file that the code was not written by me.
 
 ## Projects ##
 ### HTML Fundamentals ###
@@ -32,7 +34,7 @@ In the cases where some code was written by Codecademy to be included in the pro
  - [x] [Task Board](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Task%20Board)
  
  ### Responsiveness ###
- - [ ] Tsunami Coffee
+ - [x] [Tsunami Coffee](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Tsunami%20Coffee)
  - [ ] Fotomatic
  - [ ] Architecture Blog
  - [ ] Company Home Page
