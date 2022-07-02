@@ -35,7 +35,8 @@ This repo contains a mix of guided and solo projects. In the cases where some co
  
  ### Responsiveness ###
  - [x] [Tsunami Coffee](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Tsunami%20Coffee)
- - [ ] Fotomatic
+ - [x] [Excursion](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Excursion)
+ - [x] Fotomatic
  - [ ] Architecture Blog
  - [ ] Company Home Page
  - [ ] Club Website
