@@ -27,3 +27,4 @@ This was a completely solo project, with only rough guidance and no starter code
 6. Using Chrome Dev Tools to efficiently troubleshoot layout issues
 7. Using Chrome Dev Tools to view different display sizes and inform the creation of breakpoints based on content instead of specific devices
 
+![midnight-corn-screenrecord_AdobeExpress](https://user-images.githubusercontent.com/104512014/177048463-8b0c14a9-ac4a-447f-a335-c8775795bda0.gif)
