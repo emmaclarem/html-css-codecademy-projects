@@ -9,6 +9,8 @@ This was a completely solo project, with only rough guidance and no starter code
 ## Objective
 **From Codecademy:** In this project, you’ll be using flexbox to design and build the layout for a company’s homepage. You can choose to build a new homepage for an existing company or imagine your own dream company!
 
+<a href="https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/example-site/index.html?_gl=1*rvedam*_ga*MTA4OTcwNzI5NS4xNjQ5MTcwOTkz*_ga_3LRZM6TM9L*MTY1Njc4MDY4MS4xMDguMS4xNjU2NzgxNzA5LjU5" target="_blank">Example Project Website created by Codecademy</a>
+
 ## Project Requirements
 - [x] A title and logo or splash image.
 - [x] A mission statement, brief description, or tagline.
