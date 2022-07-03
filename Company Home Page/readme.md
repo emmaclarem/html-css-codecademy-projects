@@ -1,17 +1,20 @@
-# About
+<p align="center"> <img src="https://user-images.githubusercontent.com/104512014/177040636-849aec19-a6f0-4155-bcc7-daf73cef6e89.PNG" width="400px"/> </p>
+
+
+## About
 This is a static website homepage for a company, made as part of Codecademy's Frontend Engineer Career Path. I chose to create a made-up popcorn company called Midnight Corn, ispired by a comic by [Tiny Snek Comics](https://m.facebook.com/TinySnekComics/photos/a.1314272131976657/3268693873201130/).
 
 This was a completely solo project, with only rough guidance and no starter code from Codecademy.
 
 ## Objective
-From Codecademy: In this project, you’ll be using flexbox to design and build the layout for a company’s homepage. You can choose to build a new homepage for an existing company or imagine your own dream company!​
+**From Codecademy:** In this project, you’ll be using flexbox to design and build the layout for a company’s homepage. You can choose to build a new homepage for an existing company or imagine your own dream company!
 
 ## Project Requirements
-1. A title and logo or splash image.
-2. A mission statement, brief description, or tagline.
-3. A list or set of images and titles representing the product(s) of the company.
-4. A section describing some of the company’s employees or teammates.
-5. Use Flexbox to create a responsive layout.
+- [x] A title and logo or splash image.
+- [x] A mission statement, brief description, or tagline.
+- [x] A list or set of images and titles representing the product(s) of the company.
+- [x] A section describing some of the company’s employees or teammates.
+- [x] Use Flexbox to create a responsive layout.
 
 ## What I Learned
 1. Increased confidence in using flexbox for resposive layouts
