@@ -37,8 +37,7 @@ This repo contains a mix of guided and solo projects. In the cases where some co
  - [x] [Tsunami Coffee](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Tsunami%20Coffee)
  - [x] [Excursion](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Excursion)
  - [x] [Fotomatic](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Fotomatic)
- - [ ] Architecture Blog
- - [ ] Company Home Page
+ - [x] [Company Home Page](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Company%20Home%20Page)
  - [ ] Club Website
 
 ### CSS Transitions ###
