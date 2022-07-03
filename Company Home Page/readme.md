@@ -4,7 +4,9 @@
 ## About
 This is a static website homepage for a company, made as part of Codecademy's Frontend Engineer Career Path. I chose to create a made-up popcorn company called Midnight Corn, ispired by a comic by [Tiny Snek Comics](https://m.facebook.com/TinySnekComics/photos/a.1314272131976657/3268693873201130/).
 
-This was a completely solo project, with only rough guidance and no starter code from Codecademy.
+This was a completely solo project, with only rough guidance and no starter code from Codecademy. 
+
+[Click here to view a video demo of my finished project.](https://www.dropbox.com/s/2zk2qhy3jpmv5se/midnight-corn-screenrecord.mp4?dl=0)
 
 ## Objective
 **From Codecademy:** In this project, you’ll be using flexbox to design and build the layout for a company’s homepage. You can choose to build a new homepage for an existing company or imagine your own dream company!
@@ -26,3 +28,10 @@ This was a completely solo project, with only rough guidance and no starter code
 5. Using @font-face to use custom fonts
 6. Using Chrome Dev Tools to efficiently troubleshoot layout issues
 7. Using Chrome Dev Tools to view different display sizes and inform the creation of breakpoints based on content instead of specific devices
+
+## Video Demo
+[Click here to view a video demo of the site.](https://www.dropbox.com/s/2zk2qhy3jpmv5se/midnight-corn-screenrecord.mp4?dl=0)
+
+<a href='https://www.dropbox.com/s/2zk2qhy3jpmv5se/midnight-corn-screenrecord.mp4?dl=0'><img width="600" alt="Midnight Corn" src="https://user-images.githubusercontent.com/104512014/177050174-25380ebb-9a73-4a5b-af7d-ddace1c9cecf.jpg"></a>
+
+<a href='https://www.freepik.com/psd/multi-device'>Multi device psd created by syifa5610 - www.freepik.com</a>
