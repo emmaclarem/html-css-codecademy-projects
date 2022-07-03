@@ -116,19 +116,6 @@ hr {
   margin-left: 25px;
 }
 
-.icon {
-  width: 15%;
-  max-width: 150px;
-  position: absolute;
-}
-
-.icon-1 {
-  bottom: 5%;
-  left: 5%;
-}
-.icon-2 {
-  right: 5%;
-}
 
 @media only screen and (max-width: 500px) {
   li {
@@ -157,6 +144,20 @@ hr {
 
 /*--------------- HERO SECTION STYLES ---------------*/
 
+.icon {
+  width: 15%;
+  max-width: 150px;
+  position: absolute;
+}
+
+.icon-1 {
+  bottom: 5%;
+  left: 5%;
+}
+.icon-2 {
+  right: 5%;
+}
+
 .hero {
   background-image: url("./assets/midnight-corn-banner-3.jpg");
   background-position: center;
@@ -169,6 +170,10 @@ hr {
   margin-top: 3px;
 }
 
+.tagline {
+  font-size: 1.2rem;
+}
+
 .hero img {
   max-width: 50%;
 }
@@ -177,9 +182,14 @@ hr {
   .hero img {
     max-width: 70%;
   }
+}
+@media only screen and (max-width: 600px) {
   .hero p {
     font-size: 0.75rem;
     width: 80%;
+  }
+  .hero img {
+    max-width: 90%;
   }
 }
 
@@ -207,12 +217,13 @@ hr {
   border-radius: 40px;
   max-width: 100%;
   box-shadow: 10px 10px 22px rgba(5, 9, 37, 0.8);
+  margin-bottom: 15px;
 }
 
 @media only screen and (max-width: 750px) {
   .products {
     justify-content: space-evenly;
-    align-content: center;
+    gap: 25px;
   }
   .card {
     margin: 0 20px;
@@ -251,7 +262,7 @@ img.staff {
 }
 
 .footer h3 {
-  margin: auto 5%;
+  margin: auto 10%;
   line-height: 75%;
   text-shadow: none;
 }
