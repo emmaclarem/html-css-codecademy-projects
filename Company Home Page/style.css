@@ -1,0 +1,273 @@
+@font-face {
+  font-family: "nighty_demoregular";
+  src: url("./assets/nightydemo-otf.otf") format("opentype"),
+    url("./assets/nightydemo-ttf.ttf") format("truetype"),
+    url("./assets/nightydemo-webfont.woff2") format("woff2"),
+    url("./assets/nightydemo-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/*--------------- GLOBAL STYLES ---------------*/
+
+body {
+  background-color: #272343;
+}
+
+h2,
+h3 {
+  font-family: "nighty_demoregular";
+  color: #bae8e8;
+  text-shadow: 4px 3px 8px rgba(20, 10, 59, 0.7);
+}
+
+h2 {
+  font-size: 3.5rem;
+  letter-spacing: 0.1rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+footer h3 {
+  color: #272343;
+}
+
+h4,
+h5,
+p,
+a {
+  font-family: "Poppins", sans-serif;
+}
+
+h4,
+h5 {
+  color: #ffd803;
+}
+
+h4 {
+  font-size: 1.75rem;
+}
+
+h5 {
+  font-size: 1.5rem;
+}
+
+p {
+  color: #f3fbfb;
+  text-align: center;
+}
+
+footer p,
+footer a {
+  font-size: 0.6rem;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+  display: inline;
+  margin-right: 15px;
+}
+
+a {
+  color: #bae8e8;
+  font-size: 1rem;
+  padding: 0 3px;
+}
+
+li a:hover {
+  background-color: #ffd803;
+  color: #272343;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+hr {
+  border: 5px solid #bae8e8;
+  border-radius: 20px;
+  width: 50%;
+  margin: 30px auto;
+  opacity: 0.5;
+}
+
+/*--------------- NAVBAR STYLES ---------------*/
+
+.navbar {
+  justify-content: space-between;
+  align-items: center;
+  height: 35px;
+}
+
+.logo {
+  margin-left: 25px;
+}
+
+.icon {
+  width: 15%;
+  max-width: 150px;
+  position: absolute;
+}
+
+.icon-1 {
+  bottom: 5%;
+  left: 5%;
+}
+.icon-2 {
+  right: 5%;
+}
+
+@media only screen and (max-width: 500px) {
+  li {
+    margin-right: 2px;
+  }
+  a {
+    font-size: 0.8rem;
+  }
+  .logo {
+    margin-left: 5px;
+    letter-spacing: normal;
+  }
+  .icon {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .logo {
+    display: none;
+  }
+  .navbar {
+    justify-content: end;
+  }
+}
+
+/*--------------- HERO SECTION STYLES ---------------*/
+
+.hero {
+  background-image: url("./assets/midnight-corn-banner-3.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3px;
+}
+
+.hero img {
+  max-width: 50%;
+}
+
+@media only screen and (max-width: 900px) {
+  .hero img {
+    max-width: 70%;
+  }
+  .hero p {
+    font-size: 0.75rem;
+    width: 80%;
+  }
+}
+
+/*--------------- PRODUCT STYLES ---------------*/
+
+.products-header {
+  margin: 30px auto;
+}
+
+.products {
+  justify-content: center;
+  gap: 100px;
+  flex-wrap: wrap;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 300px;
+}
+
+.card img {
+  border-radius: 40px;
+  max-width: 100%;
+  box-shadow: 10px 10px 22px rgba(5, 9, 37, 0.8);
+}
+
+@media only screen and (max-width: 750px) {
+  .products {
+    justify-content: space-evenly;
+    align-content: center;
+  }
+  .card {
+    margin: 0 20px;
+  }
+}
+
+/*--------------- TEAM STYLES ---------------*/
+
+.team-header {
+  margin: 30px auto;
+}
+
+.team {
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin-bottom: 50px;
+}
+
+img.staff {
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+/*--------------- FOOTER STYLES ---------------*/
+
+.footer {
+  background-image: url("./assets/midnight-corn-footer.JPG");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 200px;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.footer h3 {
+  margin: auto 5%;
+  line-height: 75%;
+  text-shadow: none;
+}
+
+@media only screen and (max-width: 450px) {
+  .footer {
+    height: 150px;
+  }
+  .footer h3 {
+    margin: auto 10px;
+    font-size: 1.5rem;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .footer h3 {
+    display: none;
+  }
+}
