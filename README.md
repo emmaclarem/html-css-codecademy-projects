@@ -7,8 +7,9 @@ This repo contains a mix of guided and solo projects. In the cases where some co
 
 ## Projects
 
-### Featured (my picks)
-[Company Home Page](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Company%20Home%20Page)
+### Featured (my best work)
+- [Club Website](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Club%20Website)
+- [Company Home Page](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Company%20Home%20Page)
 
 ### HTML Fundamentals
  - [x] [Fashion Blog](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Fashion%20Blog)
@@ -42,7 +43,7 @@ This repo contains a mix of guided and solo projects. In the cases where some co
  - [x] [Excursion](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Excursion)
  - [x] [Fotomatic](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Fotomatic)
  - [x] [Company Home Page](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Company%20Home%20Page)
- - [ ] Club Website
+ - [x] [Club Website](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Club%20Website)
 
 ### CSS Transitions
  - [ ] 20,000 Leagues Under the Sea
