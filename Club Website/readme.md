@@ -31,6 +31,6 @@ This was a completely solo project, with only rough guidance and no starter code
 ## Video Demo
 [Click here to view a video demo of the site.](https://www.dropbox.com/s/2zk2qhy3jpmv5se/midnight-corn-screenrecord.mp4?dl=0)
 
-<a href='https://www.dropbox.com/s/pjde22ji48dt8i0/readin-screenrecord.mp4?dl=0'><img width="600" alt="Read'in" src="https://user-images.githubusercontent.com/104512014/177402287-a370132e-af22-4d24-af0c-1acb99c2eab3.jpg"></a>
+<a href='https://www.dropbox.com/s/pjde22ji48dt8i0/readin-screenrecord.mp4?dl=0'><img width="600" alt="Read'in" src="https://user-images.githubusercontent.com/104512014/177405146-26060d29-2532-478f-9472-b5e790428df9.jpg"></a>
 
 <a href='https://www.freepik.com/psd/multi-device'>Multi device psd created by syifa5610 - www.freepik.com</a>
