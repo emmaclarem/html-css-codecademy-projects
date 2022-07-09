@@ -5,12 +5,16 @@ This repository contains a collection of projects I've completed using HTML & CS
 
 This repo contains a mix of guided and solo projects. In the cases where some code was written by Codecademy to be included in the project (ie: CSS stylesheets while I was only learning HTML) I have commented at the top of the file that the code was not written by me.
 
-## Projects
+## Featured Projects
 
-### Featured (my best work)
-- [Club Website](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Club%20Website)
-- [Company Home Page](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Company%20Home%20Page)
+#### Club Website 
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-code.svg" width="15" height="15">[ Source Code](https://github.com/emmaclarem/readin-club-website)
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-up-right-from-square.svg" width="15" height="15">[ View Live Site](https://emmaclarem.github.io/readin-club-website/)
+#### Company Home Page
+- <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-code.svg" width="15" height="15">[ Source Code](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Company%20Home%20Page)
 
+## All Projects
+Organized in chronological order as they appeared in the course. 
 ### HTML Fundamentals
  - [x] [Fashion Blog](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Fashion%20Blog)
  - [x] [Wine Festival Schedule](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Wine%20Festival%20Schedule)
@@ -43,7 +47,7 @@ This repo contains a mix of guided and solo projects. In the cases where some co
  - [x] [Excursion](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Excursion)
  - [x] [Fotomatic](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Fotomatic)
  - [x] [Company Home Page](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Company%20Home%20Page)
- - [x] [Club Website](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Club%20Website)
+ - [x] [Club Website](https://github.com/emmaclarem/readin-club-website)
 
 ### CSS Transitions
  - [ ] 20,000 Leagues Under the Sea
