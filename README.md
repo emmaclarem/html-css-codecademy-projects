@@ -50,5 +50,5 @@ Organized in chronological order as they appeared in the course.
  - [x] [Club Website](https://github.com/emmaclarem/readin-club-website)
 
 ### CSS Transitions
- - [ ] 20,000 Leagues Under the Sea
+ - [x] [20,000 Leagues Under the Sea](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/20%2C000%20Leagues%20Under%20the%20Sea)
  
