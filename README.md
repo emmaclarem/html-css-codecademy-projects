@@ -53,7 +53,7 @@ Organized in chronological order as they appeared in the course.
  - [x] [20,000 Leagues Under the Sea](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/20%2C000%20Leagues%20Under%20the%20Sea)
  
  ### CSS Variables & Functions
- - [x] Curious Ornithologist
+ - [x] [Curious Ornithologist](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Curious%20Ornithologist)
 
 ### Accessibility 
  - [x] Code! Blog
