@@ -56,5 +56,5 @@ Organized in chronological order as they appeared in the course.
  - [x] [Curious Ornithologist](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Curious%20Ornithologist)
 
 ### Accessibility 
- - [x] Code! Blog
+ - [x] [Code! Blog](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Code!%20Blog)
  
