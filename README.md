@@ -58,3 +58,9 @@ Organized in chronological order as they appeared in the course.
 ### Accessibility 
  - [x] [Code! Blog](https://github.com/emmaclarem/html-css-codecademy-projects/tree/main/Code!%20Blog)
  
+### Learn SASS/SCSS
+- [ ] Refactor CSS to SCSS
+- [ ] Sassy Parallax Banner
+- [ ] Sass Bar Chart
+- [ ] Animated Company Logo
+
