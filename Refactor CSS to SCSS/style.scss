@@ -1,0 +1,70 @@
+// The band at Common Cents Party wants to update their codebase by upgrading from old standard CSS— which is hard to maintain and ever-growing in complexity— to the more efficent and organized SCSS. Your first order of business is to help them refactor their code by nesting selectors and identifying variables. Let’s get started!
+
+/* This is my refactored SCSS code, see style.css for the original CSS code provided by Codecademy. */
+
+$light-pink: #FFCFCF;
+$white: #ffffff;
+
+html, body {
+  margin: 0;
+  font-family: Arial;
+  color: $white;
+}
+
+p, a {
+  font-size: 0.75rem;
+}
+
+img {
+  padding-left: 30px;
+  height: 350px;
+  width: 550px;
+}
+
+.container {
+  min-height: 100%;
+  display: flex;
+  .nav {
+    width: 15%;
+    min-width: 140px;
+    color: $light-pink;
+    padding-top: 55px;
+    padding-right: 30px;
+    text-align: center;
+    h4 {
+      -webkit-margin-before: 0;
+      margin-left: 50px;
+    }
+    ul {
+      list-style: none;
+    }
+  }
+  .main {
+    width: 85%;
+    min-height: 750px;
+    min-width: 600px;
+    background-color: $light-pink;
+    > * {
+      padding-left: 30px;
+    }
+    h1 {
+       font-size: 62px;
+      -webkit-margin-before: 0;
+      padding-top: 40px;
+    }
+    p {
+      width: 55%;
+      min-width: 550px;
+    }
+    a {
+      color: inherit;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+    li {
+      font-size: 0.85rem;
+    }
+  }
+}
